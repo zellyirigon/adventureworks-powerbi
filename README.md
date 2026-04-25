@@ -1,6 +1,6 @@
-\# AdventureWorks Sales Analytics Power BI project analyzing sales and returns data from AdventureWorks. 
+# AdventureWorks Sales Analytics Power BI project analysing sales and returns data from AdventureWorks. 
 
-\## Status 🚧 In progress — started April 2026
+## Status 🚧 In progress — started April 2026
 
 
 
@@ -10,29 +10,29 @@ Built as part of my PL-300 preparation, with focus on data modelling, DAX and re
 
 
 
-\---
+---
 
 
 
-\## 📌 Project Goals
+## 📌 Project Goals
 
 
 
-\- Build a star schema model from raw AdventureWorks tables
+- Build a star schema model from raw AdventureWorks tables
 
-\- Write DAX measures for sales KPIs, return rates and performance tracking
+- Write DAX measures for sales KPIs, return rates and performance tracking
 
-\- Design a report that tells a clear story for a sales audience
+- Design a report that tells a clear story for a sales audience
 
-\- Document decisions and lessons learned along the way
-
-
-
-\---
+- Document decisions and lessons learned along the way
 
 
 
-\## 📊 Tools \& Stack
+---
+
+
+
+## 📊 Tools \& Stack
 
 
 
@@ -50,11 +50,11 @@ Built as part of my PL-300 preparation, with focus on data modelling, DAX and re
 
 
 
-\---
+---
 
 
 
-\## 🗂️ Project Structure
+## 🗂️ Project Structure
 
 adventureworks-sales-analytics/
 
@@ -76,11 +76,11 @@ adventureworks-sales-analytics/
 
 
 
-\---
+---
 
 
 
-\## 📈 Dashboards (in progress)
+## 📈 Dashboards (in progress)
 
 
 
@@ -96,11 +96,11 @@ adventureworks-sales-analytics/
 
 
 
-\---
+---
 
 
 
-\## 🧠 Key Decisions \& Notes
+## 🧠 Key Decisions \& Notes
 
 
 
@@ -108,27 +108,23 @@ adventureworks-sales-analytics/
 
 
 
-\- \[ ] Star schema defined with fact and dimension tables
+- [ ] Star schema defined with fact and dimension tables
 
-\- \[ ] Core DAX measures created (Total Sales, Return Rate, MoM Growth)
+- [ ] Core DAX measures created (Total Sales, Return Rate, MoM Growth)
 
-\- \[ ] Report pages designed and published
-
-
-
-\---
+- [ ] Report pages designed and published
 
 
 
-\---
+---
 
 
 
-\## About
+## About
 
 
 
 Part of my Data Analyst portfolio. I'm currently preparing for the \*\*Microsoft PL-300\*\* certification.  
 
-\[LinkedIn](https://www.linkedin.com/in/zellyirigon/) · \[GitHub](https://github.com/zellyirigon)
+[LinkedIn](https://www.linkedin.com/in/zellyirigon/) · [GitHub](https://github.com/zellyirigon)
 
