@@ -1,0 +1,15 @@
+# Power BI
+*.pbix.bak
+TempState/
+
+# Heavy files
+data/**/*.csv
+*.csv
+
+# System
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
