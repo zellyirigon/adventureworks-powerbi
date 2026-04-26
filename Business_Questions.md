@@ -1,4 +1,4 @@
-# Business Questions — Maven Cycles Dataset
+# Business Questions — Adventure Works Dataset
 
 > **Project context:** Retail bicycle company. Dataset includes transactions, returns, products, customers, and territories.
 > **Analyst:** Zelly Irigon
